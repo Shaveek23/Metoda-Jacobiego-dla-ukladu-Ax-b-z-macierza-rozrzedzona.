@@ -8,3 +8,5 @@ Więcej informacji na temat projektu znajduję się w pliku "raport" - opis uży
 
 Projekt zrealizowany został w środowisku MATLAB, na potrzeby przedmiotu Metody Numeryczne 2.
 
+Należy uruchomić plik Projekt1.m po wcześniejszym dodaniu wszystkich funkcji.
+
